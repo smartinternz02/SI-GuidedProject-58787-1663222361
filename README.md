@@ -1,2 +1,2 @@
-# SI-GuidedProject-58787-1663222361
+# Grocery App using Kotlin
 Virtual Internship - Android Application Development Using Kotlin
